@@ -1,0 +1,343 @@
+booking_id,passenger_name,passenger_phone,passenger_gender,passenger_city,route_code,route_from,route_to,vehicle_plate,vehicle_type,driver_name,driver_rating,departure_date,departure_time,seat_class,seats_booked,fare_per_seat,total_fare,payment_method,booking_status,trip_rating
+SK-0001,Wanjiku Otieno,,FEMALE,Nairobi,RT05,Nairobi,Eldoret,KDB 252Y,SHUTTLE,Peter Ochieng,4.3,28/05/2025,10:45,ECONOMY CLASS,1,1600,1600,,COMPLETED,1
+SK-0002,wanjiku otieno,+254 747 949-743,FEMALE,Eldoret,RT01,Nairobi,Thika,KDC 933Z,Matatu,GRACE WANJIRU,4.7,28/06/2025,17:30,BUS,2,350,700,M-PESA,COMPLETED,1
+SK-0003,Halima Wafula,+254 791 804-670,MALE,Eldoret,RT01,Nairobi,Thika,KDD 414W,Shuttle,Peter Ochieng,3.6,19-04-25,11:45,BUS,2,KSh350,700,M-PESA,Completed,2
+SK-0004,Halima Wafula,+254 716 981-212,MALE,Nakuru,RT01,Nairobi,Thika,kde 825v,shuttle,Peter Ochieng,4.0,28-08-25,05:00,BUSINESS CLASS,3,350,"1,050",M-Pesa,COMPLETED,5
+SK-0005,David Odhiambo,029482880,MALE,,RT03,Nairobi,Nakuru,KDF 636U,shuttle,Joseph Kimani,3.9,07-06-25,12:00,Economy,2,KSh 700,1400,Cash,No Show,2
+SK-0006,  OTIENO NJERI ,093482548,FEMALE,Machakos,RT08,Nairobi,Nyeri,KDA 701X,Matatu,Alice Nduta,4.2,2025-07-31,05:00,BUSINESS CLASS,3,500,1500,M-Pesa,NO SHOW,2
+SK-0007,Halima Mwangi,254722199774,F,Eldoret,RT01,Nairobi,Thika,kdb 252y,Matatu,Mary Achieng,4.5,25/05/2025,12:15,Economy,1,350,350,mpesa,COMPLETED,5
+SK-0008,CYNTHIA MWANGI,254771318985,F,Nairobi,RT03,Nairobi,Nakuru,KDC 933Z,bus,simon mutua,3.7,08-19-2025,09:15,ECONOMY CLASS,5,700,3500,Card,completed,5
+SK-0009,SAMUEL OTIENO,061222683,MALE,Nairobi,RT01,Nairobi,Thika,KDD 414W,SHUTTLE,ALICE NDUTA,4.4,01-08-25,12:30,BUS,2,350,700,Cash,COMPLETED,5
+SK-0010,Samuel Mutiso,+254 718 350-478,male,Nakuru,RT08,Nairobi,Nyeri,kde 825v,Shuttle,Joseph Kimani,4.2,23/08/2025,09:30,ECO,-1,KSh500,500,M-PESA,NO SHOW,1
+SK-0011,Brian Otieno,026752368,MALE,Machakos,RT04,Nairobi,Kisumu,kdf 636u,Matatu,  MARY ACHIENG ,4.8,07/06/2025,16:15,BUS,4,1800,7200,,Completed,6
+SK-0012,Otieno Chirchir,032522125,MALE,Eldoret,RT07,Nakuru,Nairobi,kda 701x,Bus,Simon Mutua,4.5,04-27-2025,06:45,Economy,1,700,700,M-PESA,Completed,0
+SK-0013,Samuel Achieng,043282694,male,Nairobi,RT01,Nairobi,Thika,KDB 252Y,Shuttle,Alice Nduta,5.0,11/06/2025,17:15,ECONOMY CLASS,3,350,1050,CASH,cancelled,3
+SK-0014,Kevin Chirchir,095518434,F,Kisumu,RT05,Nairobi,Eldoret,KDC 933Z,matatu,Paul Kiptoo,3.7,21/05/2025,14:30,Economy,5,1600,8000,Card,COMPLETED,7
+SK-0015,Joy Barasa,040788417,MALE,Mombasa,RT03,Nairobi,Nakuru,KDD 414W,Bus,Esther Kagure,4.6,07-31-2025,18:15,BUSINESS CLASS,2,700,1400,mpesa,Cancelled,2
+SK-0016,Samuel Kiptoo,+254 725 567-236,,Machakos,RT05,Nairobi,Eldoret,kde 825v,SHUTTLE,  PETER OCHIENG ,4.0,2025-04-28,20:45,ECONOMY CLASS,1,KSh1600,1600,,completed,2
+SK-0017,Wanjiku Otieno,+254 798 256-823,MALE,Thika,RT03,Nairobi,Nakuru,kdf 636u,BUS,Esther Kagure,3.6,06-13-2025,17:00,Business,1,700,700,M-PESA,COMPLETED,3
+SK-0018,Halima Kiptoo,254713498444,f,Nyeri,RT06,Thika,Nairobi,KDA 701X,MATATU,  JOSEPH KIMANI ,4.2,17/07/2025,07:45,Economy,5,KSh 350,1750,Cash,COMPLETED,5
+SK-0019,Cynthia Kiptoo,254754329765,M,Nairobi,RT01,Nairobi,Thika,KDB 252Y,Matatu,Paul Kiptoo,4.1,07/07/2025,11:45,BUSINESS CLASS,2,350,700,CASH,completed,4
+SK-0020,Joy Chirchir,019706807,,Mombasa,RT08,Nairobi,Nyeri,KDC 933Z,BUS,  MARY ACHIENG ,4.6,12-05-25,18:30,ECO,4,500,2000,,NO SHOW,1
+SK-0021,Samuel Gitau,069546945,f,Kisumu,RT07,Nakuru,Nairobi,kdd 414w,Shuttle,Esther Kagure,4.0,07-27-2025,15:00,BUS,1,KSh 700,700,M-PESA,COMPLETED,4
+SK-0022,Cynthia Njeri,254740807587,f,Machakos,RT02,Nairobi,Mombasa,kde 825v,Shuttle,Grace Wanjiru,3.6,10-06-25,20:30,BUS,5,KSh2200,11000,Card,COMPLETED,7
+SK-0023,Faith Njeri,254785878637,FEMALE,Kisumu,RT01,Nairobi,Thika,KDF 636U,Bus,Alice Nduta,3.2,2025-05-20,13:00,ECO,2,350,700,mpesa,completed,7
+SK-0024,Faith Kamau,061603175,FEMALE,Nairobi,RT07,Nakuru,Nairobi,KDA 701X,Shuttle,MARY ACHIENG,4.2,08-25-2025,12:45,BUS,2,700,"1,400",M-PESA,completed,4
+SK-0025,Faith Njeri,+254 710 518-561,f,Machakos,RT05,Nairobi,Eldoret,kdb 252y,Shuttle,Simon Mutua,4.0,2025-05-24,13:15,BUS,3,1600,4800,mpesa,COMPLETED,3
+SK-0026,Peter Otieno,+254 761 378-612,FEMALE,Machakos,RT07,Nakuru,Nairobi,kdc 933z,Matatu,Peter Ochieng,4.3,18/06/2025,07:15,BUSINESS CLASS,1,KSh700,700,M-Pesa,completed,6
+SK-0027,Faith Chirchir,062441428,f,Thika,RT07,Nakuru,Nairobi,KDD 414W,bus,Simon Mutua,3.9,15/05/2025,19:00,ECONOMY CLASS,3,700,2100,,COMPLETED,6
+SK-0028,  LUCY CHIRCHIR ,254716308373,FEMALE,Nakuru,RT07,Nakuru,Nairobi,kde 825v,bus,Mary Achieng,4.3,2025-08-17,10:30,Business,-1,700,700,mpesa,Completed,1
+SK-0029,ian achieng,+254 780 248-492,MALE,,RT03,Nairobi,Nakuru,KDF 636U,matatu,  ALICE NDUTA ,3.7,06/08/2025,14:30,Business,1,700,700,,No Show,3
+SK-0030,Halima Chirchir,070822930,F,Nyeri,RT03,Nairobi,Nakuru,KDA 701X,Bus,alice nduta,3.4,08-18-2025,05:15,BUS,2,KSh 700,1400,,COMPLETED,0
+SK-0031,Kevin Gitau,018340746,f,Kisumu,RT02,Nairobi,Mombasa,KDB 252Y,shuttle,  MARY ACHIENG ,4.8,06-24-2025,10:30,ECO,3,2200,"6,600",M-PESA,CANCELLED,5
+SK-0032,Mercy Chirchir,254784246337,F,Kisumu,RT03,Nairobi,Nakuru,kdc 933z,Matatu,  ESTHER KAGURE ,4.2,17/05/2025,19:30,Business,1,700,KSh700,M-PESA,COMPLETED,1
+SK-0033,Joy Hassan,011679985,f,Nairobi,RT07,Nakuru,Nairobi,kdd 414w,MATATU,Alice Nduta,3.5,02-08-25,09:00,BUSINESS CLASS,1,700,700,Cash,Completed,4
+SK-0034,Esther Mwangi,031363944,F,Kisumu,RT04,Nairobi,Kisumu,kde 825v,Matatu,PAUL KIPTOO,4.7,06-15-2025,16:00,BUS,4,1800,7200,Cash,COMPLETED,4
+SK-0035,WANJIKU CHEBET,099409764,F,Thika,RT05,Nairobi,Eldoret,KDF 636U,Shuttle,Esther Kagure,3.6,2025-07-05,17:45,ECONOMY CLASS,3,1600,KSh4800,Cash,completed,2
+SK-0036,Ian Kamau,+254 766 341-975,male,Thika,RT06,Thika,Nairobi,kda 701x,Shuttle,Joseph Kimani,3.5,26/04/2025,19:00,BUSINESS CLASS,1,350,350,M-Pesa,Cancelled,5
+SK-0037,gideon odhiambo,028233653,male,Nakuru,RT06,Thika,Nairobi,KDB 252Y,Bus,Joseph Kimani,4.6,23-08-25,05:15,ECONOMY CLASS,1,350,KSh350,M-Pesa,completed,5
+SK-0038,  BRIAN HASSAN ,254768758131,M,Machakos,RT01,Nairobi,Thika,kdc 933z,Matatu,Esther Kagure,4.0,28/04/2025,15:15,ECO,2,350,700,CASH,completed,7
+SK-0039,David Odhiambo,037540562,MALE,Nyeri,RT06,Thika,Nairobi,kdd 414w,bus,Mary Achieng,3.8,15-06-25,16:15,BUSINESS CLASS,2,KSh 350,700,M-Pesa,Completed,5
+SK-0040,Wanjiku Chebet,254795868533,,Nairobi,RT03,Nairobi,Nakuru,kde 825v,Shuttle,Mary Achieng,3.6,04/05/2025,12:00,ECONOMY CLASS,4,700,2800,M-PESA,completed,7
+SK-0041,ian hassan,254733990246,FEMALE,Nyeri,RT01,Nairobi,Thika,KDF 636U,Matatu,Mary Achieng,3.6,08-21-2025,19:30,Economy,2,350,KSh700,CASH,Completed,3
+SK-0042,Otieno Kiptoo,254737873624,M,Eldoret,RT07,Nakuru,Nairobi,kda 701x,BUS,Esther Kagure,3.8,2025-04-13,17:00,ECO,1,700,KSh 700,,COMPLETED,3
+SK-0043,Halima Barasa,015546119,F,Thika,RT01,Nairobi,Thika,kdb 252y,BUS,Peter Ochieng,4.0,20/07/2025,17:00,ECONOMY CLASS,1,350,350,,completed,4
+SK-0044,Mercy Odhiambo,+254 752 897-272,M,,RT08,Nairobi,Nyeri,KDC 933Z,Bus,Alice Nduta,4.9,2025-06-02,12:00,Economy,1,500,500,mpesa,completed,4
+SK-0045,kevin odhiambo,+254 718 580-552,f,Kisumu,RT01,Nairobi,Thika,kdd 414w,Shuttle,Mary Achieng,4.0,28/07/2025,16:30,ECO,6,350,"KSh 2,100",CASH,completed,5
+SK-0046,Kevin Chirchir,+254 717 561-205,,Eldoret,RT03,Nairobi,Nakuru,KDE 825V,Bus,Joseph Kimani,4.0,11/04/2025,21:15,ECONOMY CLASS,2,700,1400,Cash,COMPLETED,5
+SK-0047,Mercy Mutiso,052183696,f,Nakuru,RT05,Nairobi,Eldoret,kdf 636u,bus,Paul Kiptoo,4.9,25-06-25,17:30,Economy,1,1600,KSh1600,Card,completed,1
+SK-0048,Kevin Mwangi,+254 727 258-179,male,Thika,RT01,Nairobi,Thika,KDA 701X,BUS,Paul Kiptoo,3.5,2025-04-05,10:45,ECO,3,350,1050,mpesa,COMPLETED,7
+SK-0049,Rehema Odhiambo,046896491,FEMALE,,RT04,Nairobi,Kisumu,kdb 252y,MATATU,PAUL KIPTOO,4.4,30-05-25,08:00,ECONOMY CLASS,4,1800,7200,Cash,completed,7
+SK-0050,Otieno Kamau,254759183483,MALE,Nairobi,RT01,Nairobi,Thika,kdc 933z,Shuttle,Paul Kiptoo,3.7,05-27-2025,09:45,BUS,2,350,KSh 700,M-PESA,Cancelled,6
+SK-0051,David Kamau,024956611,FEMALE,,RT07,Nakuru,Nairobi,KDD 414W,SHUTTLE,Grace Wanjiru,3.7,14/08/2025,16:15,Business,3,700,2100,M-Pesa,completed,3
+SK-0052,Mercy Odhiambo,012465907,M,Eldoret,RT08,Nairobi,Nyeri,KDE 825V,Matatu,Alice Nduta,3.8,08-08-25,10:45,BUSINESS CLASS,1,500,500,mpesa,Cancelled,5
+SK-0053,Kevin Mutiso,014871762,MALE,Kisumu,RT06,Thika,Nairobi,kdf 636u,Shuttle,Simon Mutua,3.9,05-22-2025,19:45,ECONOMY CLASS,5,350,1750,M-PESA,completed,0
+SK-0054,Kevin Otieno,064270806,F,Eldoret,RT01,Nairobi,Thika,kda 701x,Shuttle,Peter Ochieng,5.0,20/07/2025,07:45,ECONOMY CLASS,1,350,KSh 350,M-Pesa,Completed,2
+SK-0055,Brian Chirchir,254757480554,,Thika,RT07,Nakuru,Nairobi,KDB 252Y,shuttle,Alice Nduta,3.6,03/05/2025,05:15,BUS,3,700,"KSh 2,100",M-PESA,COMPLETED,3
+SK-0056,peter wafula,095455826,M,,RT06,Thika,Nairobi,kdc 933z,Bus,Alice Nduta,3.4,2025-08-04,09:15,BUS,1,350,350,M-PESA,COMPLETED,2
+SK-0057,Rehema Barasa,254783175228,male,Thika,RT06,Thika,Nairobi,kdd 414w,SHUTTLE,Alice Nduta,4.7,2025-04-23,09:45,Business,3,KSh 350,KSh1050,mpesa,COMPLETED,
+SK-0058,Cynthia Mutiso,048729646,M,,RT01,Nairobi,Thika,KDE 825V,Bus,Paul Kiptoo,4.5,28-06-25,06:00,ECO,2,350,700,CASH,NO SHOW,0
+SK-0059,Joy Kiptoo,019805161,MALE,Machakos,RT05,Nairobi,Eldoret,kdf 636u,Bus,Alice Nduta,3.8,08-04-25,16:45,Economy,4,KSh1600,6400,M-PESA,Completed,5
+SK-0060,OTIENO NJERI,034881263,F,,RT03,Nairobi,Nakuru,kda 701x,bus,Joseph Kimani,3.9,04-25-2025,12:15,Business,2,700,1400,Cash,completed,0
+SK-0061,Ian Hassan,254715510152,FEMALE,,RT07,Nakuru,Nairobi,KDB 252Y,Shuttle,Mary Achieng,4.0,16-08-25,08:15,ECO,3,700,"2,100",CASH,COMPLETED,1
+SK-0062,Kevin Mwangi,254787627243,male,Eldoret,RT06,Thika,Nairobi,KDC 933Z,Shuttle,Alice Nduta,4.1,07/08/2025,14:45,ECO,1,350,350,Cash,completed,1
+SK-0063,Halima Hassan,254777744838,FEMALE,Nyeri,RT02,Nairobi,Mombasa,KDD 414W,Matatu,Mary Achieng,4.0,07/04/2025,09:45,BUSINESS CLASS,5,2200,11000,CASH,COMPLETED,7
+SK-0064,Rehema Barasa,079462792,,Kisumu,RT07,Nakuru,Nairobi,kde 825v,Shuttle,Simon Mutua,5.0,06-05-25,14:15,BUSINESS CLASS,4,700,2800,CASH,completed,5
+SK-0065,Esther Mutiso,093362865,F,Mombasa,RT01,Nairobi,Thika,KDF 636U,BUS,Simon Mutua,4.3,2025-07-07,12:00,BUSINESS CLASS,1,KSh 350,350,M-Pesa,Cancelled,4
+SK-0066,Faith Achieng,035874394,male,Kisumu,RT02,Nairobi,Mombasa,KDA 701X,SHUTTLE,Grace Wanjiru,4.5,06/05/2025,10:45,Economy,4,"KSh 2,200","8,800",,COMPLETED,7
+SK-0067,David Chebet,027971616,F,Kisumu,RT01,Nairobi,Thika,KDB 252Y,Bus,Esther Kagure,4.5,14/06/2025,15:30,Business,4,350,1400,CASH,cancelled,1
+SK-0068,Esther Kiptoo,+254 743 492-341,F,Kisumu,RT07,Nakuru,Nairobi,kdc 933z,SHUTTLE,Joseph Kimani,3.8,2025-04-23,06:00,BUS,4,700,2800,CASH,completed,1
+SK-0069,Esther Kiptoo,099662582,,,RT06,Thika,Nairobi,KDD 414W,SHUTTLE,Mary Achieng,4.2,15-06-25,07:00,ECO,3,KSh350,1050,CASH,Completed,2
+SK-0070,samuel kiptoo,+254 763 567-677,M,,RT01,Nairobi,Thika,kde 825v,Matatu,Peter Ochieng,3.2,2025-05-23,07:00,BUS,5,350,1750,M-Pesa,Completed,4
+SK-0071,mercy kiptoo,254797777995,FEMALE,Nakuru,RT08,Nairobi,Nyeri,kdf 636u,MATATU,Peter Ochieng,4.5,2025-05-17,05:00,ECONOMY CLASS,2,500,"1,000",CASH,COMPLETED,4
+SK-0072,OTIENO CHIRCHIR,+254 718 203-708,M,Machakos,RT07,Nakuru,Nairobi,KDA 701X,Matatu,Peter Ochieng,4.2,10/06/2025,09:30,Economy,1,KSh700,700,CASH,completed,1
+SK-0073,Joy Mutiso,064669607,M,Eldoret,RT06,Thika,Nairobi,kdb 252y,shuttle,Peter Ochieng,3.9,07/05/2025,12:15,ECONOMY CLASS,4,KSh 350,"KSh 1,400",CASH,NO SHOW,5
+SK-0074,Peter Odhiambo,254734152374,F,Nairobi,RT08,Nairobi,Nyeri,KDC 933Z,SHUTTLE,Grace Wanjiru,4.8,02-06-25,14:00,Economy,3,KSh500,1500,,COMPLETED,3
+SK-0075,Joy Achieng,075609577,M,Machakos,RT08,Nairobi,Nyeri,kdd 414w,Shuttle,Peter Ochieng,4.8,2025-07-11,05:30,Business,3,KSh500,"1,500",mpesa,No Show,5
+SK-0076,Rehema Hassan,254731850914,male,Nakuru,RT02,Nairobi,Mombasa,KDE 825V,shuttle,  PAUL KIPTOO ,5.0,06/08/2025,21:00,ECO,2,KSh2200,4400,M-Pesa,COMPLETED,3
+SK-0077,Brian Chirchir,012106644,FEMALE,Nyeri,RT01,Nairobi,Thika,KDF 636U,Shuttle,Simon Mutua,4.7,09/05/2025,10:00,ECO,3,350,1050,CASH,completed,5
+SK-0078,Halima Hassan,093877132,M,Nyeri,RT01,Nairobi,Thika,kda 701x,bus,Joseph Kimani,4.5,21/04/2025,20:45,BUSINESS CLASS,2,KSh350,KSh 700,CASH,Completed,4
+SK-0079,Ian Barasa,,FEMALE,Nakuru,RT01,Nairobi,Thika,kdb 252y,Bus,Grace Wanjiru,4.7,24-08-25,17:15,BUSINESS CLASS,5,KSh350,"1,750",M-Pesa,Completed,6
+SK-0080,ian mwangi,+254 780 484-542,MALE,Nyeri,RT03,Nairobi,Nakuru,KDC 933Z,Bus,Mary Achieng,3.5,2025-07-11,17:30,ECONOMY CLASS,4,700,2800,M-PESA,NO SHOW,3
+SK-0081,Otieno Otieno,254721711712,,Eldoret,RT02,Nairobi,Mombasa,kdd 414w,matatu,  PETER OCHIENG ,4.8,2025-05-18,21:15,BUSINESS CLASS,2,2200,4400,M-PESA,COMPLETED,5
+SK-0082,Halima Hassan,027411106,F,Eldoret,RT03,Nairobi,Nakuru,kde 825v,Shuttle,  PETER OCHIENG ,5.0,2025-07-17,14:30,Business,1,KSh 700,700,mpesa,COMPLETED,1
+SK-0083,ian odhiambo,+254 782 304-706,FEMALE,Nakuru,RT08,Nairobi,Nyeri,KDF 636U,Bus,  ESTHER KAGURE ,3.3,04/08/2025,20:15,BUSINESS CLASS,2,500,1000,mpesa,no show,2
+SK-0084,Otieno Barasa,086753187,M,Mombasa,RT03,Nairobi,Nakuru,kda 701x,SHUTTLE,Joseph Kimani,4.4,01/08/2025,15:45,ECO,2,700,1400,CASH,completed,5
+SK-0085,Samuel Wafula,,M,Thika,RT03,Nairobi,Nakuru,KDB 252Y,Shuttle,  ESTHER KAGURE ,4.1,07-24-2025,08:45,BUSINESS CLASS,3,700,2100,M-PESA,Completed,4
+SK-0086,Halima Barasa,+254 781 536-573,MALE,Nyeri,RT06,Thika,Nairobi,KDC 933Z,matatu,Peter Ochieng,4.3,2025-04-28,19:45,BUS,1,350,350,M-PESA,completed,6
+SK-0087,David Mutiso,254791420711,F,Nyeri,RT06,Thika,Nairobi,KDD 414W,bus,  PAUL KIPTOO ,4.6,16/08/2025,09:30,ECO,1,350,350,M-PESA,completed,3
+SK-0088,WANJIKU HASSAN,033422962,F,Nairobi,RT01,Nairobi,Thika,kde 825v,Bus,  GRACE WANJIRU ,4.1,08-26-2025,18:45,BUS,2,350,700,M-Pesa,completed,2
+SK-0089,Peter Chirchir,083216374,,,RT01,Nairobi,Thika,kdf 636u,shuttle,GRACE WANJIRU,4.5,2025-06-10,14:00,BUS,4,350,"KSh 1,400",Cash,Completed,3
+SK-0090,Faith Chirchir,+254 736 924-160,FEMALE,Eldoret,RT06,Thika,Nairobi,kda 701x,Bus,alice nduta,3.7,29-08-25,21:00,Economy,1,350,350,,completed,5
+SK-0091,Ian Gitau,254791913887,M,Nyeri,RT01,Nairobi,Thika,kdb 252y,shuttle,Esther Kagure,3.2,22/06/2025,19:30,ECO,5,350,1750,Cash,Cancelled,4
+SK-0092,KEVIN GITAU,+254 768 116-227,,Nakuru,RT03,Nairobi,Nakuru,kdc 933z,bus,GRACE WANJIRU,4.8,19-08-25,10:30,ECO,2,700,1400,M-PESA,completed,5
+SK-0093,Cynthia Hassan,+254 719 235-707,MALE,,RT08,Nairobi,Nyeri,kdd 414w,Shuttle,mary achieng,4.4,06-18-2025,07:15,BUS,1,500,KSh 500,M-PESA,COMPLETED,2
+SK-0094,Amina Chirchir,254737743866,MALE,Nyeri,RT07,Nakuru,Nairobi,kde 825v,Matatu,  PAUL KIPTOO ,4.5,05-05-25,18:30,Economy,1,700,700,mpesa,completed,2
+SK-0095,Samuel Njeri,+254 716 902-912,MALE,Machakos,RT04,Nairobi,Kisumu,kdf 636u,matatu,Mary Achieng,5.0,07-04-25,15:15,BUS,4,KSh1800,7200,CASH,cancelled,3
+SK-0096,gideon kamau,254790829613,,Nyeri,RT01,Nairobi,Thika,kda 701x,Matatu,Paul Kiptoo,3.8,2025-04-19,09:30,BUS,2,350,KSh700,Card,completed,1
+SK-0097,David Kiptoo,+254 795 859-773,f,Nakuru,RT01,Nairobi,Thika,KDB 252Y,Bus,Joseph Kimani,4.9,01-06-25,10:30,Economy,3,350,"KSh 1,050",,Completed,6
+SK-0098,Rehema Kiptoo,+254 782 270-476,MALE,Kisumu,RT02,Nairobi,Mombasa,KDC 933Z,Matatu,Grace Wanjiru,3.2,07/06/2025,12:00,BUS,2,2200,"KSh 4,400",,Completed,5
+SK-0099,  KEVIN MUTISO ,254774789153,MALE,Mombasa,RT03,Nairobi,Nakuru,KDD 414W,bus,simon mutua,3.8,07-17-2025,05:30,Economy,5,700,KSh3500,CASH,Completed,2
+SK-0100,Halima Wafula,254739654454,f,Nairobi,RT03,Nairobi,Nakuru,kde 825v,matatu,Simon Mutua,4.2,2025-05-21,18:45,ECO,3,KSh 700,"KSh 2,100",M-Pesa,Completed,5
+SK-0101,Samuel Wafula,254785681163,F,Nakuru,RT07,Nakuru,Nairobi,KDF 636U,Shuttle,Peter Ochieng,4.5,05-07-25,19:30,Economy,3,700,2100,,completed,1
+SK-0102,Gideon Kiptoo,+254 725 192-261,,Kisumu,RT01,Nairobi,Thika,KDA 701X,Bus,Mary Achieng,4.9,06-20-2025,21:00,BUSINESS CLASS,1,350,KSh 350,M-Pesa,COMPLETED,5
+SK-0103,BRIAN ODHIAMBO,+254 761 481-802,f,Thika,RT07,Nakuru,Nairobi,kdb 252y,Matatu,grace wanjiru,4.7,25/04/2025,15:00,ECO,3,KSh 700,2100,CASH,COMPLETED,2
+SK-0104,Ian Mutiso,+254 788 734-731,MALE,Kisumu,RT07,Nakuru,Nairobi,kdc 933z,bus,Joseph Kimani,3.9,07-19-2025,11:15,BUSINESS CLASS,2,KSh700,"1,400",,completed,6
+SK-0105,Amina Chebet,,F,,RT02,Nairobi,Mombasa,kdd 414w,Bus,Mary Achieng,3.6,23/08/2025,12:45,ECONOMY CLASS,3,"KSh 2,200",6600,CASH,COMPLETED,4
+SK-0106,esther chirchir,254732602138,M,Nairobi,RT06,Thika,Nairobi,KDE 825V,Matatu,Esther Kagure,4.9,2025-04-08,09:30,BUSINESS CLASS,3,350,"1,050",M-Pesa,Completed,7
+SK-0107,lucy hassan,027261849,F,Machakos,RT01,Nairobi,Thika,kdf 636u,SHUTTLE,Alice Nduta,4.3,2025-04-29,17:30,BUSINESS CLASS,4,350,1400,Card,Cancelled,7
+SK-0108,Halima Gitau,019343455,male,Nakuru,RT08,Nairobi,Nyeri,KDA 701X,Shuttle,Esther Kagure,3.6,24/08/2025,16:30,ECO,5,KSh 500,2500,Card,COMPLETED,5
+SK-0109,  REHEMA MWANGI ,019918966,M,Kisumu,RT08,Nairobi,Nyeri,KDB 252Y,Matatu,Mary Achieng,4.8,2025-07-06,07:00,ECONOMY CLASS,5,500,2500,Cash,completed,4
+SK-0110,Gideon Achieng,046404343,M,Nairobi,RT01,Nairobi,Thika,kdc 933z,shuttle,Paul Kiptoo,3.2,21/07/2025,14:45,Economy,5,350,1750,Card,COMPLETED,1
+SK-0111,Wanjiku Achieng,015369550,F,Kisumu,RT08,Nairobi,Nyeri,KDD 414W,Matatu,  PAUL KIPTOO ,3.4,11-07-25,18:15,Business,2,500,1000,CASH,COMPLETED,3
+SK-0112,Mercy Odhiambo,254776919685,f,Nakuru,RT08,Nairobi,Nyeri,KDE 825V,Bus,GRACE WANJIRU,3.3,25/08/2025,18:15,BUSINESS CLASS,3,500,1500,M-PESA,cancelled,4
+SK-0113,Amina Mwangi,029251680,FEMALE,Thika,RT08,Nairobi,Nyeri,KDF 636U,Shuttle,alice nduta,3.9,11/07/2025,20:00,Economy,1,500,500,CASH,completed,3
+SK-0114,Ian Chebet,072978812,f,Thika,RT05,Nairobi,Eldoret,KDA 701X,matatu,Alice Nduta,4.0,24/06/2025,11:45,Economy,1,"1,600",KSh1600,,COMPLETED,1
+SK-0115,Samuel Chirchir,+254 735 957-159,MALE,Nairobi,RT07,Nakuru,Nairobi,kdb 252y,Bus,Simon Mutua,4.0,06-19-2025,08:00,Economy,3,700,2100,mpesa,COMPLETED,4
+SK-0116,Mercy Kamau,092330793,MALE,Kisumu,RT04,Nairobi,Kisumu,kdc 933z,Matatu,  ESTHER KAGURE ,3.5,06/06/2025,12:30,Business,2,"1,800",KSh3600,Card,COMPLETED,1
+SK-0117,Mercy Chirchir,254794963959,male,,RT03,Nairobi,Nakuru,kdd 414w,Matatu,Esther Kagure,5.0,04-06-25,13:30,BUSINESS CLASS,2,KSh700,1400,mpesa,completed,3
+SK-0118,Rehema Mutiso,254759854136,FEMALE,Mombasa,RT06,Thika,Nairobi,kde 825v,Bus,  ESTHER KAGURE ,3.8,13-07-25,10:15,ECONOMY CLASS,5,350,1750,M-PESA,completed,2
+SK-0119,joy achieng,254784401574,,Thika,RT06,Thika,Nairobi,kdf 636u,SHUTTLE,Mary Achieng,3.6,25/06/2025,17:30,BUS,4,350,"KSh 1,400",mpesa,COMPLETED,2
+SK-0120,Rehema Chebet,+254 791 159-104,F,Kisumu,RT02,Nairobi,Mombasa,KDA 701X,Bus,ESTHER KAGURE,3.4,07-27-2025,18:45,BUS,3,"2,200",6600,CASH,Completed,2
+SK-0121,Halima Njeri,+254 726 205-492,FEMALE,Kisumu,RT06,Thika,Nairobi,KDB 252Y,Shuttle,Simon Mutua,4.1,14-08-25,18:15,ECONOMY CLASS,6,350,2100,mpesa,Completed,1
+SK-0122,Amina Chirchir,+254 793 911-138,F,Kisumu,RT08,Nairobi,Nyeri,KDC 933Z,Matatu,Joseph Kimani,3.4,05-29-2025,17:00,Business,5,500,"KSh 2,500",Card,completed,2
+SK-0123,  OTIENO ODHIAMBO ,023609303,FEMALE,Mombasa,RT05,Nairobi,Eldoret,kdd 414w,Shuttle,Peter Ochieng,3.3,12/08/2025,11:45,ECONOMY CLASS,2,1600,3200,M-Pesa,Completed,5
+SK-0124,David Mutiso,254747370575,M,Thika,RT07,Nakuru,Nairobi,KDE 825V,Shuttle,Alice Nduta,3.4,24/04/2025,05:15,BUSINESS CLASS,3,700,2100,Cash,completed,1
+SK-0125,  PETER MUTISO ,031215235,f,Nairobi,RT01,Nairobi,Thika,KDF 636U,BUS,  ESTHER KAGURE ,4.0,06-27-2025,16:00,BUSINESS CLASS,4,KSh350,"KSh 1,400",Cash,COMPLETED,4
+SK-0126,Samuel Mwangi,053631635,f,Thika,RT01,Nairobi,Thika,kda 701x,Bus,Esther Kagure,4.4,06/06/2025,09:00,ECO,2,350,700,,COMPLETED,1
+SK-0127,Brian Barasa,020570554,,Machakos,RT07,Nakuru,Nairobi,KDB 252Y,Shuttle,  MARY ACHIENG ,4.4,04/08/2025,17:45,ECO,5,700,3500,M-Pesa,completed,7
+SK-0128,Lucy Odhiambo,+254 768 439-673,,Machakos,RT08,Nairobi,Nyeri,kdc 933z,Matatu,MARY ACHIENG,3.2,22-08-25,14:30,BUSINESS CLASS,3,500,"1,500",mpesa,completed,7
+SK-0129,Gideon Hassan,096702226,,Machakos,RT06,Thika,Nairobi,kdd 414w,SHUTTLE,PAUL KIPTOO,4.2,21/05/2025,18:45,Business,2,KSh 350,700,mpesa,completed,4
+SK-0130,Halima Mutiso,+254 747 563-924,MALE,Nakuru,RT06,Thika,Nairobi,kde 825v,SHUTTLE,  SIMON MUTUA ,4.7,2025-06-22,11:15,Business,1,KSh350,350,Card,Completed,4
+SK-0131,Lucy Barasa,096865961,FEMALE,Kisumu,RT08,Nairobi,Nyeri,kdf 636u,Matatu,Joseph Kimani,3.3,07/08/2025,11:30,Economy,3,KSh500,1500,,Completed,3
+SK-0132,Wanjiku Odhiambo,099394809,f,Nairobi,RT05,Nairobi,Eldoret,kda 701x,Shuttle,Joseph Kimani,3.7,09/04/2025,12:30,Business,2,1600,3200,,completed,4
+SK-0133,David Achieng,+254 743 233-264,FEMALE,Kisumu,RT08,Nairobi,Nyeri,KDB 252Y,Bus,Joseph Kimani,3.8,20/04/2025,14:45,Business,2,500,1000,Card,COMPLETED,2
+SK-0134,Cynthia Chebet,+254 752 439-469,male,Mombasa,RT03,Nairobi,Nakuru,kdc 933z,Matatu,Mary Achieng,4.0,2025-08-08,06:30,BUS,6,KSh 700,4200,CASH,completed,5
+SK-0135,BRIAN MUTISO,+254 720 198-271,,,RT01,Nairobi,Thika,KDD 414W,Bus,grace wanjiru,4.7,2025-07-05,18:00,BUSINESS CLASS,5,350,1750,Card,COMPLETED,5
+SK-0136,Ian Achieng,059789221,FEMALE,Nairobi,RT01,Nairobi,Thika,KDE 825V,Matatu,Mary Achieng,4.1,04-06-25,14:00,ECONOMY CLASS,1,350,350,,completed,5
+SK-0137,Esther Mutiso,080995668,MALE,Thika,RT01,Nairobi,Thika,KDF 636U,SHUTTLE,Peter Ochieng,4.9,10-07-25,11:30,Economy,1,350,350,CASH,Cancelled,5
+SK-0138,Wanjiku Kiptoo,+254 795 168-356,M,Mombasa,RT01,Nairobi,Thika,kda 701x,Bus,Grace Wanjiru,4.3,2025-05-20,15:45,BUS,1,350,350,Card,completed,5
+SK-0139,Halima Hassan,254756237795,f,Eldoret,RT01,Nairobi,Thika,kdb 252y,Shuttle,Simon Mutua,3.4,19/07/2025,13:15,Business,3,350,KSh1050,M-Pesa,completed,3
+SK-0140,Gideon Kamau,254779583769,,Nakuru,RT01,Nairobi,Thika,kdc 933z,MATATU,Simon Mutua,4.1,08/04/2025,17:30,Business,1,350,350,,cancelled,5
+SK-0141,Esther Hassan,072337164,male,Eldoret,RT05,Nairobi,Eldoret,KDD 414W,Bus,Alice Nduta,4.9,11/05/2025,06:30,ECO,4,KSh1600,6400,M-PESA,completed,5
+SK-0142,Mercy Njeri,254754598911,F,Nairobi,RT01,Nairobi,Thika,KDE 825V,Bus,Mary Achieng,3.7,2025-07-06,10:15,ECONOMY CLASS,3,350,KSh1050,mpesa,COMPLETED,1
+SK-0143,Otieno Kamau,+254 785 264-237,f,,RT06,Thika,Nairobi,KDF 636U,Matatu,Paul Kiptoo,3.5,01/08/2025,05:30,ECO,4,350,1400,Cash,COMPLETED,5
+SK-0144,Samuel Mutiso,018335487,F,Nakuru,RT01,Nairobi,Thika,KDA 701X,MATATU,  PETER OCHIENG ,3.4,08-28-2025,06:00,ECO,4,350,1400,CASH,cancelled,2
+SK-0145,Samuel Achieng,099689200,F,Nakuru,RT07,Nakuru,Nairobi,kdb 252y,Matatu,Simon Mutua,4.2,20-07-25,11:00,BUSINESS CLASS,5,KSh 700,3500,M-Pesa,completed,0
+SK-0146,ian mutiso,060873308,F,,RT01,Nairobi,Thika,kdc 933z,BUS,Esther Kagure,3.8,20-06-25,17:15,BUSINESS CLASS,3,350,1050,,completed,1
+SK-0147,Brian Wafula,070714545,M,Thika,RT08,Nairobi,Nyeri,kdd 414w,Matatu,Joseph Kimani,4.9,06-26-2025,21:30,BUSINESS CLASS,1,KSh 500,KSh 500,Card,CANCELLED,5
+SK-0148,Samuel Barasa,040770100,MALE,Thika,RT03,Nairobi,Nakuru,kde 825v,bus,Peter Ochieng,4.1,11/08/2025,07:30,BUSINESS CLASS,1,KSh700,700,,COMPLETED,1
+SK-0149,Samuel Otieno,254753219922,FEMALE,Kisumu,RT01,Nairobi,Thika,kdf 636u,shuttle,esther kagure,4.9,07-13-2025,19:00,BUS,6,350,2100,Card,Completed,3
+SK-0150,Ian Njeri,254753177667,MALE,Machakos,RT05,Nairobi,Eldoret,kda 701x,MATATU,Simon Mutua,4.5,2025-06-30,20:15,Economy,1,"1,600",1600,mpesa,Completed,1
+SK-0151,wanjiku kamau,045602287,,,RT07,Nakuru,Nairobi,kdb 252y,MATATU,Paul Kiptoo,4.6,01/05/2025,06:30,BUS,2,KSh 700,1400,M-Pesa,no show,4
+SK-0152,Ian Wafula,+254 770 727-451,male,Nakuru,RT03,Nairobi,Nakuru,kdc 933z,bus,Alice Nduta,3.9,05-24-2025,10:15,Business,-1,700,KSh700,M-PESA,Completed,1
+SK-0153,  REHEMA WAFULA ,254750904598,male,Kisumu,RT03,Nairobi,Nakuru,KDD 414W,Bus,Joseph Kimani,3.7,09/05/2025,19:30,ECONOMY CLASS,5,700,3500,,COMPLETED,1
+SK-0154,Joy Chebet,254767180490,FEMALE,Kisumu,RT02,Nairobi,Mombasa,kde 825v,Bus,Alice Nduta,4.3,05-21-2025,07:00,Economy,2,2200,4400,Card,COMPLETED,5
+SK-0155,Samuel Kiptoo,+254 712 228-845,MALE,Kisumu,RT06,Thika,Nairobi,KDF 636U,matatu,Mary Achieng,4.9,07-23-2025,06:00,BUS,3,350,"KSh 1,050",M-PESA,cancelled,3
+SK-0156,Esther Wafula,+254 714 779-465,,Eldoret,RT01,Nairobi,Thika,kda 701x,Shuttle,Esther Kagure,4.9,2025-06-19,19:45,Business,3,350,1050,M-PESA,COMPLETED,3
+SK-0157,AMINA BARASA,+254 770 647-108,f,Machakos,RT03,Nairobi,Nakuru,kdb 252y,bus,Simon Mutua,4.6,03-07-25,11:45,Business,4,700,2800,Card,completed,2
+SK-0158,Ian Mutiso,254744522292,,Thika,RT05,Nairobi,Eldoret,KDC 933Z,Matatu,Esther Kagure,3.7,04-21-2025,11:30,ECO,4,1600,"KSh 6,400",mpesa,Completed,2
+SK-0159,Gideon Chebet,099910132,male,Thika,RT01,Nairobi,Thika,KDD 414W,matatu,Mary Achieng,3.5,03-04-25,17:00,ECO,1,KSh350,350,,COMPLETED,2
+SK-0160,Joy Chebet,042592753,male,Mombasa,RT01,Nairobi,Thika,kde 825v,Bus,Mary Achieng,4.0,25/04/2025,10:30,Business,6,350,"KSh 2,100",M-Pesa,completed,2
+SK-0161,Cynthia Gitau,055760257,f,,RT06,Thika,Nairobi,KDF 636U,Bus,  ALICE NDUTA ,4.6,05/07/2025,11:00,BUSINESS CLASS,2,350,700,M-Pesa,COMPLETED,2
+SK-0162,Kevin Hassan,030170643,MALE,Machakos,RT06,Thika,Nairobi,kda 701x,Shuttle,Esther Kagure,4.3,04/08/2025,10:00,Business,3,KSh350,1050,Card,Completed,2
+SK-0163,Joy Chebet,+254 722 635-774,M,Nairobi,RT05,Nairobi,Eldoret,KDB 252Y,Bus,Mary Achieng,3.4,08-13-2025,20:30,ECO,3,1600,4800,M-Pesa,Completed,5
+SK-0164,Otieno Odhiambo,015851172,,Kisumu,RT08,Nairobi,Nyeri,KDC 933Z,Matatu,Mary Achieng,4.2,2025-04-21,11:15,Business,1,500,500,Card,completed,1
+SK-0165,Faith Mwangi,254753773261,FEMALE,Machakos,RT02,Nairobi,Mombasa,kdd 414w,Shuttle,Alice Nduta,4.3,01-07-25,12:15,BUS,1,KSh2200,2200,Cash,COMPLETED,0
+SK-0166,Joy Kamau,+254 750 122-890,,Kisumu,RT08,Nairobi,Nyeri,KDE 825V,matatu,Alice Nduta,3.7,2025-06-12,12:30,ECONOMY CLASS,1,500,500,mpesa,completed,5
+SK-0167,David Chirchir,,,Nairobi,RT01,Nairobi,Thika,kdf 636u,bus,MARY ACHIENG,4.5,03/08/2025,17:00,ECONOMY CLASS,2,350,700,CASH,Cancelled,5
+SK-0168,Cynthia Njeri,020587685,f,Nairobi,RT02,Nairobi,Mombasa,kda 701x,bus,PETER OCHIENG,4.6,10/07/2025,11:45,BUS,3,2200,6600,CASH,no show,5
+SK-0169,Otieno Achieng,+254 754 708-771,M,Kisumu,RT03,Nairobi,Nakuru,KDB 252Y,bus,Paul Kiptoo,4.9,2025-07-20,11:30,Economy,1,KSh 700,700,M-Pesa,Completed,5
+SK-0170,Rehema Kamau,076868364,FEMALE,Machakos,RT08,Nairobi,Nyeri,KDC 933Z,Matatu,Peter Ochieng,4.4,13/06/2025,13:15,ECO,5,500,KSh2500,M-PESA,Completed,1
+SK-0171,  AMINA MUTISO ,254758620826,M,Eldoret,RT03,Nairobi,Nakuru,kdd 414w,Matatu,Paul Kiptoo,4.9,09/06/2025,06:15,Business,5,700,3500,Card,Completed,0
+SK-0172,Brian Gitau,254713668386,MALE,Nakuru,RT01,Nairobi,Thika,kde 825v,Bus,Mary Achieng,4.1,2025-06-17,18:15,Business,3,350,KSh1050,M-PESA,COMPLETED,5
+SK-0173,Joy Hassan,254727540888,MALE,Nakuru,RT03,Nairobi,Nakuru,kdf 636u,SHUTTLE,Mary Achieng,4.7,2025-08-17,05:30,BUS,1,700,700,,completed,0
+SK-0174,Ian Chirchir,+254 739 336-803,M,Eldoret,RT08,Nairobi,Nyeri,KDA 701X,Bus,Esther Kagure,3.9,04-28-2025,20:45,Economy,2,500,1000,Cash,Completed,1
+SK-0175,Peter Odhiambo,061894142,FEMALE,Nyeri,RT08,Nairobi,Nyeri,kdb 252y,SHUTTLE,Joseph Kimani,4.0,22/05/2025,12:45,BUSINESS CLASS,6,500,3000,,completed,1
+SK-0176,Otieno Mutiso,+254 776 245-574,,Machakos,RT08,Nairobi,Nyeri,KDC 933Z,Matatu,  PAUL KIPTOO ,4.2,06-17-2025,18:30,BUS,1,500,500,Card,Completed,3
+SK-0177,Peter Gitau,254759844910,FEMALE,Nakuru,RT07,Nakuru,Nairobi,kdd 414w,Matatu,  PAUL KIPTOO ,4.8,2025-05-12,10:15,Economy,1,KSh 700,700,M-PESA,completed,1
+SK-0178,Ian Kamau,087605343,MALE,Machakos,RT06,Thika,Nairobi,kde 825v,Matatu,Joseph Kimani,4.2,2025-05-01,06:15,Economy,2,350,700,mpesa,Cancelled,2
+SK-0179,Faith Gitau,081281566,f,Eldoret,RT05,Nairobi,Eldoret,KDF 636U,Shuttle,ALICE NDUTA,4.6,23/04/2025,14:45,Economy,4,1600,"6,400",CASH,COMPLETED,
+SK-0180,Rehema Hassan,050365638,FEMALE,Eldoret,RT03,Nairobi,Nakuru,KDA 701X,shuttle,Esther Kagure,3.5,2025-04-28,14:15,ECO,3,700,2100,,Completed,
+SK-0181,Gideon Kamau,049407618,FEMALE,Eldoret,RT06,Thika,Nairobi,KDB 252Y,Shuttle,Alice Nduta,4.2,16/07/2025,10:15,ECONOMY CLASS,1,KSh350,350,Cash,Completed,3
+SK-0182,Otieno Hassan,254782842794,male,,RT05,Nairobi,Eldoret,KDC 933Z,Shuttle,Alice Nduta,3.5,16/08/2025,15:45,BUSINESS CLASS,2,1600,3200,CASH,CANCELLED,4
+SK-0183,Ian Achieng,048321637,male,Nakuru,RT01,Nairobi,Thika,KDD 414W,Bus,Mary Achieng,3.2,06-18-2025,21:15,Economy,1,350,350,,completed,3
+SK-0184,Esther Njeri,254776218104,male,Nairobi,RT02,Nairobi,Mombasa,KDE 825V,Matatu,Mary Achieng,4.4,26-04-25,05:30,BUSINESS CLASS,2,"2,200",4400,M-PESA,CANCELLED,5
+SK-0185,Wanjiku Barasa,254780426377,MALE,Kisumu,RT03,Nairobi,Nakuru,KDF 636U,Shuttle,Alice Nduta,3.3,09/06/2025,20:00,ECO,4,700,2800,Cash,Completed,3
+SK-0186,  GIDEON HASSAN ,+254 769 681-234,M,Machakos,RT06,Thika,Nairobi,KDA 701X,bus,Esther Kagure,3.6,24-07-25,16:45,Economy,5,350,1750,,COMPLETED,3
+SK-0187,Lucy Chirchir,254761937831,,Thika,RT03,Nairobi,Nakuru,kdb 252y,Matatu,Simon Mutua,3.9,06-29-2025,12:15,Business,1,700,700,M-Pesa,COMPLETED,2
+SK-0188,Halima Wafula,+254 783 956-598,M,Machakos,RT01,Nairobi,Thika,kdc 933z,shuttle,Paul Kiptoo,3.9,21/07/2025,17:30,BUS,3,350,1050,mpesa,Completed,3
+SK-0189,Joy Achieng,254736797998,male,Kisumu,RT07,Nakuru,Nairobi,kdd 414w,Shuttle,Mary Achieng,4.3,01/04/2025,09:30,ECO,5,700,3500,M-Pesa,Completed,2
+SK-0190,Mercy Gitau,254758545658,MALE,Nakuru,RT06,Thika,Nairobi,kde 825v,MATATU,peter ochieng,4.7,2025-06-12,14:15,Economy,4,350,1400,mpesa,cancelled,2
+SK-0191,Otieno Chirchir,254780939560,F,Eldoret,RT07,Nakuru,Nairobi,KDF 636U,BUS,Joseph Kimani,4.7,2025-05-05,21:30,BUS,3,KSh700,2100,M-Pesa,completed,0
+SK-0192,Ian Kiptoo,254788190351,F,Thika,RT03,Nairobi,Nakuru,kda 701x,Shuttle,Joseph Kimani,4.1,04-21-2025,15:45,ECONOMY CLASS,2,700,1400,M-Pesa,completed,
+SK-0193,  BRIAN GITAU ,026617178,,Kisumu,RT08,Nairobi,Nyeri,kdb 252y,Shuttle,SIMON MUTUA,4.5,2025-08-23,09:45,ECONOMY CLASS,4,500,"KSh 2,000",Cash,Completed,4
+SK-0194,Esther Odhiambo,066843752,MALE,Mombasa,RT06,Thika,Nairobi,kdc 933z,Shuttle,Mary Achieng,4.0,04-22-2025,14:45,BUSINESS CLASS,5,KSh350,1750,Card,no show,6
+SK-0195,Kevin Barasa,,,Nyeri,RT02,Nairobi,Mombasa,kdd 414w,Shuttle,Mary Achieng,4.3,07-21-2025,12:15,Business,2,2200,4400,mpesa,COMPLETED,4
+SK-0196,Peter Chebet,+254 734 134-124,FEMALE,Thika,RT03,Nairobi,Nakuru,KDE 825V,Bus,Mary Achieng,3.4,2025-04-04,17:15,ECO,3,700,2100,Cash,completed,5
+SK-0197,cynthia mutiso,254717364932,male,Nakuru,RT08,Nairobi,Nyeri,kdf 636u,Bus,Peter Ochieng,4.1,2025-06-10,18:15,Business,3,500,KSh1500,M-PESA,Completed,3
+SK-0198,Amina Kamau,+254 799 437-500,FEMALE,Nairobi,RT01,Nairobi,Thika,kda 701x,bus,Mary Achieng,3.2,07-24-2025,08:30,ECONOMY CLASS,1,350,350,Card,completed,4
+SK-0199,Faith Barasa,254734406812,F,Thika,RT01,Nairobi,Thika,kdb 252y,bus,Grace Wanjiru,3.5,2025-04-21,20:45,ECO,3,KSh350,1050,CASH,CANCELLED,3
+SK-0200,Gideon Mwangi,254796991995,FEMALE,Nakuru,RT08,Nairobi,Nyeri,KDC 933Z,Bus,Esther Kagure,4.0,26/06/2025,12:15,ECO,1,500,500,M-PESA,Cancelled,1
+SK-0201,halima otieno,+254 796 511-432,M,,RT03,Nairobi,Nakuru,KDD 414W,Matatu,Paul Kiptoo,3.4,2025-04-28,18:15,BUSINESS CLASS,1,700,700,mpesa,completed,5
+SK-0202,Cynthia Kamau,063810926,,Machakos,RT01,Nairobi,Thika,KDE 825V,Shuttle,Esther Kagure,4.9,06/07/2025,10:45,Business,1,KSh350,350,M-PESA,COMPLETED,0
+SK-0203,Wanjiku Barasa,016298215,,Nakuru,RT01,Nairobi,Thika,kdf 636u,Bus,Joseph Kimani,3.9,2025-08-14,18:30,ECONOMY CLASS,1,350,350,M-Pesa,No Show,5
+SK-0204,Halima Hassan,096433335,,Thika,RT06,Thika,Nairobi,kda 701x,Bus,peter ochieng,4.8,08/04/2025,20:45,ECO,5,KSh 350,1750,CASH,COMPLETED,1
+SK-0205,Esther Kamau,+254 727 213-972,F,Machakos,RT01,Nairobi,Thika,kdb 252y,Bus,Simon Mutua,4.6,2025-05-20,12:00,BUS,2,350,KSh 700,CASH,COMPLETED,3
+SK-0206,esther chirchir,074134535,FEMALE,Nyeri,RT07,Nakuru,Nairobi,kdc 933z,shuttle,Esther Kagure,4.2,03/06/2025,18:15,Economy,2,700,1400,M-Pesa,Completed,4
+SK-0207,Peter Mwangi,057741575,f,Nairobi,RT03,Nairobi,Nakuru,KDD 414W,Shuttle,Joseph Kimani,4.6,2025-08-25,07:30,BUSINESS CLASS,2,KSh700,KSh1400,M-PESA,Completed,7
+SK-0208,WANJIKU HASSAN,093589855,,Mombasa,RT01,Nairobi,Thika,KDE 825V,Shuttle,Peter Ochieng,3.3,03-07-25,19:45,Business,2,350,700,Card,completed,5
+SK-0209,Peter Otieno,031382214,f,Nakuru,RT05,Nairobi,Eldoret,kdf 636u,MATATU,Joseph Kimani,4.9,2025-07-04,20:30,BUS,3,1600,4800,M-PESA,Cancelled,1
+SK-0210,Kevin Kiptoo,048680235,,Kisumu,RT01,Nairobi,Thika,KDA 701X,bus,ALICE NDUTA,3.5,12-08-25,19:15,Business,5,KSh350,1750,mpesa,Completed,4
+SK-0211,Kevin Chirchir,+254 733 310-675,f,Nairobi,RT07,Nakuru,Nairobi,kdb 252y,Shuttle,Esther Kagure,3.5,10-05-25,08:00,BUS,3,KSh 700,"2,100",mpesa,Completed,1
+SK-0212,Esther Mwangi,024849590,M,Nakuru,RT08,Nairobi,Nyeri,KDC 933Z,bus,Grace Wanjiru,3.4,15/06/2025,11:15,ECONOMY CLASS,3,500,1500,,COMPLETED,7
+SK-0213,samuel kamau,254764478495,male,Nairobi,RT05,Nairobi,Eldoret,kdd 414w,Shuttle,ESTHER KAGURE,3.6,10/07/2025,18:45,ECONOMY CLASS,6,1600,"9,600",Card,COMPLETED,3
+SK-0214,CYNTHIA CHIRCHIR,,MALE,,RT01,Nairobi,Thika,kde 825v,Bus,Grace Wanjiru,3.9,05-24-2025,06:30,Business,3,350,1050,Cash,Completed,
+SK-0215,Rehema Hassan,,FEMALE,Eldoret,RT01,Nairobi,Thika,kdf 636u,Shuttle,ESTHER KAGURE,3.9,30/07/2025,13:15,Business,1,350,350,Card,Completed,3
+SK-0216,Cynthia Barasa,031656430,,Eldoret,RT02,Nairobi,Mombasa,kda 701x,Shuttle,Mary Achieng,3.8,2025-07-01,05:15,Business,1,2200,"2,200",M-PESA,Completed,3
+SK-0217,Samuel Odhiambo,019219938,MALE,Nairobi,RT01,Nairobi,Thika,kdb 252y,Shuttle,  PAUL KIPTOO ,4.1,19-05-25,10:30,ECO,1,KSh 350,350,,cancelled,5
+SK-0218,David Otieno,254765143301,M,Nairobi,RT01,Nairobi,Thika,KDC 933Z,Shuttle,Joseph Kimani,4.4,04/05/2025,08:15,Business,1,KSh 350,350,M-Pesa,No Show,4
+SK-0219,Halima Barasa,+254 784 881-114,FEMALE,Mombasa,RT01,Nairobi,Thika,KDD 414W,MATATU,JOSEPH KIMANI,4.9,08-27-2025,16:15,BUS,4,350,1400,,COMPLETED,2
+SK-0220,David Barasa,015184435,F,Thika,RT08,Nairobi,Nyeri,kde 825v,BUS,Simon Mutua,4.7,2025-07-14,18:30,BUS,2,500,1000,,COMPLETED,3
+SK-0221,Cynthia Otieno,254785204859,MALE,Thika,RT08,Nairobi,Nyeri,kdf 636u,Bus,Peter Ochieng,4.7,04/08/2025,13:30,BUSINESS CLASS,-1,500,500,CASH,COMPLETED,4
+SK-0222,HALIMA GITAU,+254 716 950-169,F,Nairobi,RT08,Nairobi,Nyeri,KDA 701X,Shuttle,Paul Kiptoo,4.3,26/07/2025,21:45,BUS,3,500,1500,Cash,completed,3
+SK-0223,David Achieng,014281670,f,Kisumu,RT01,Nairobi,Thika,KDB 252Y,Bus,Simon Mutua,4.1,18/08/2025,20:45,BUS,2,350,700,M-Pesa,COMPLETED,
+SK-0224,Amina Chirchir,084127883,f,Eldoret,RT01,Nairobi,Thika,kdc 933z,Shuttle,Alice Nduta,3.3,2025-06-30,12:15,BUSINESS CLASS,3,350,1050,Card,Completed,3
+SK-0225,Otieno Chirchir,254712812580,FEMALE,Nairobi,RT07,Nakuru,Nairobi,kdd 414w,bus,Alice Nduta,4.7,16/08/2025,11:30,BUS,1,700,700,mpesa,completed,4
+SK-0226,Ian Kamau,021834964,FEMALE,Thika,RT01,Nairobi,Thika,kde 825v,MATATU,Esther Kagure,3.8,20/04/2025,14:30,BUS,6,350,2100,Cash,CANCELLED,5
+SK-0227,Samuel Odhiambo,254794943860,F,Kisumu,RT01,Nairobi,Thika,kdf 636u,Matatu,Grace Wanjiru,3.5,2025-08-19,14:45,BUS,3,350,"KSh 1,050",Card,Completed,1
+SK-0228,Halima Otieno,,FEMALE,Nyeri,RT07,Nakuru,Nairobi,kda 701x,Bus,Paul Kiptoo,3.3,12-05-25,10:00,BUSINESS CLASS,2,700,1400,,Completed,5
+SK-0229,Esther Njeri,084893637,male,Machakos,RT02,Nairobi,Mombasa,KDB 252Y,Matatu,Alice Nduta,4.3,07-14-2025,12:45,Economy,2,2200,4400,M-PESA,CANCELLED,1
+SK-0230,Otieno Kiptoo,057941415,M,Nairobi,RT02,Nairobi,Mombasa,KDC 933Z,Bus,Simon Mutua,3.8,15-08-25,08:15,BUS,5,2200,"11,000",M-PESA,COMPLETED,1
+SK-0231,kevin mwangi,072582854,F,Eldoret,RT01,Nairobi,Thika,kdd 414w,Shuttle,Mary Achieng,4.3,24-05-25,19:00,ECO,4,350,1400,Cash,cancelled,6
+SK-0232,  SAMUEL HASSAN ,050562589,,Nakuru,RT01,Nairobi,Thika,kde 825v,SHUTTLE,ALICE NDUTA,3.4,20-06-25,10:45,BUS,2,KSh350,700,M-Pesa,completed,1
+SK-0233,Otieno Chirchir,+254 757 274-680,M,Nairobi,RT05,Nairobi,Eldoret,kdf 636u,bus,Mary Achieng,3.6,28-07-25,14:45,BUS,3,1600,KSh4800,mpesa,COMPLETED,2
+SK-0234,Peter Njeri,070236992,male,Nyeri,RT06,Thika,Nairobi,KDA 701X,shuttle,Simon Mutua,4.2,08/05/2025,15:15,BUS,1,KSh350,KSh350,Card,completed,3
+SK-0235,Esther Barasa,+254 731 615-604,male,Machakos,RT06,Thika,Nairobi,KDB 252Y,BUS,Peter Ochieng,3.4,07/07/2025,09:45,ECONOMY CLASS,1,350,350,M-PESA,completed,4
+SK-0236,  REHEMA MWANGI ,066154293,MALE,Nairobi,RT07,Nakuru,Nairobi,KDC 933Z,matatu,Simon Mutua,4.0,21/07/2025,20:00,BUS,5,700,"3,500",Cash,CANCELLED,3
+SK-0237,Faith Hassan,+254 794 699-317,FEMALE,Nairobi,RT01,Nairobi,Thika,KDD 414W,Bus,Esther Kagure,4.8,29/06/2025,14:00,BUS,4,350,"KSh 1,400",,COMPLETED,3
+SK-0238,  AMINA CHEBET ,082232316,,Nairobi,RT01,Nairobi,Thika,kde 825v,Matatu,Peter Ochieng,3.7,2025-08-01,17:00,ECO,1,KSh 350,350,Cash,COMPLETED,3
+SK-0239,Joy Gitau,254722952476,FEMALE,Mombasa,RT05,Nairobi,Eldoret,kdf 636u,bus,Simon Mutua,4.0,06-16-2025,16:15,BUS,6,1600,9600,CASH,COMPLETED,4
+SK-0240,Samuel Otieno,254771407252,MALE,Kisumu,RT08,Nairobi,Nyeri,KDA 701X,Shuttle,Joseph Kimani,4.9,10/05/2025,21:45,BUS,3,500,1500,CASH,NO SHOW,5
+SK-0241,Faith Odhiambo,+254 748 421-701,f,Machakos,RT02,Nairobi,Mombasa,kdb 252y,Shuttle,Paul Kiptoo,3.3,05-04-25,08:45,Business,3,2200,6600,M-Pesa,Completed,4
+SK-0242,Mercy Mwangi,+254 711 295-214,,Nairobi,RT05,Nairobi,Eldoret,KDC 933Z,matatu,Paul Kiptoo,4.0,2025-08-03,07:30,BUS,2,1600,3200,M-Pesa,Completed,5
+SK-0243,Gideon Mutiso,023745967,f,Nyeri,RT08,Nairobi,Nyeri,kdd 414w,SHUTTLE,Simon Mutua,3.9,03/08/2025,12:00,Business,4,500,2000,CASH,Completed,4
+SK-0244,Otieno Kamau,039619324,FEMALE,Eldoret,RT01,Nairobi,Thika,kde 825v,matatu,  PETER OCHIENG ,4.4,30-04-25,20:15,Business,3,350,1050,M-Pesa,completed,3
+SK-0245,Rehema Mutiso,055793262,MALE,,RT03,Nairobi,Nakuru,KDF 636U,matatu,Mary Achieng,3.4,2025-08-04,20:30,ECONOMY CLASS,1,KSh 700,KSh700,M-PESA,Completed,7
+SK-0246,  DAVID OTIENO ,015619207,MALE,Thika,RT07,Nakuru,Nairobi,KDA 701X,Shuttle,esther kagure,4.5,27/04/2025,09:30,ECONOMY CLASS,5,KSh 700,"3,500",Cash,Completed,4
+SK-0247,Otieno Chebet,+254 777 531-906,MALE,Nakuru,RT01,Nairobi,Thika,kdb 252y,bus,alice nduta,3.5,08/08/2025,21:00,ECO,4,350,1400,,Completed,3
+SK-0248,Samuel Mutiso,048838860,male,Eldoret,RT03,Nairobi,Nakuru,KDC 933Z,SHUTTLE,Paul Kiptoo,4.0,2025-05-09,19:30,BUSINESS CLASS,2,700,1400,M-PESA,No Show,7
+SK-0249,Cynthia Barasa,254791263123,M,,RT01,Nairobi,Thika,kdd 414w,matatu,Mary Achieng,4.7,03-05-25,21:30,ECO,2,350,700,M-Pesa,COMPLETED,5
+SK-0250,Wanjiku Odhiambo,254746782903,,Nakuru,RT01,Nairobi,Thika,kde 825v,Bus,Mary Achieng,4.2,31-05-25,19:00,Economy,4,350,1400,M-Pesa,CANCELLED,5
+SK-0251,Samuel Mwangi,+254 773 751-533,F,Machakos,RT07,Nakuru,Nairobi,kdf 636u,MATATU,Paul Kiptoo,4.0,04/07/2025,11:45,BUS,2,700,1400,CASH,COMPLETED,4
+SK-0252,Samuel Wafula,+254 757 410-401,F,Nairobi,RT08,Nairobi,Nyeri,KDA 701X,matatu,joseph kimani,4.8,2025-04-29,10:45,ECO,1,500,500,,Completed,5
+SK-0253,Esther Mwangi,029987845,male,Thika,RT02,Nairobi,Mombasa,kdb 252y,bus,Alice Nduta,4.9,06-26-2025,13:00,Economy,3,KSh2200,6600,,cancelled,4
+SK-0254,Brian Chirchir,094644284,M,Kisumu,RT02,Nairobi,Mombasa,KDC 933Z,SHUTTLE,Esther Kagure,4.2,22-04-25,17:00,BUS,3,"KSh 2,200",6600,mpesa,COMPLETED,5
+SK-0255,Joy Wafula,096273160,FEMALE,Eldoret,RT01,Nairobi,Thika,KDD 414W,Matatu,Simon Mutua,3.8,04-24-2025,15:30,BUS,3,KSh 350,1050,mpesa,completed,1
+SK-0256,Peter Barasa,254762748339,M,Kisumu,RT04,Nairobi,Kisumu,KDE 825V,Bus,Simon Mutua,4.0,2025-07-08,09:30,Business,2,"KSh 1,800",3600,Cash,no show,3
+SK-0257,Rehema Mutiso,090317699,,,RT03,Nairobi,Nakuru,kdf 636u,MATATU,Mary Achieng,3.9,14/06/2025,09:30,BUS,1,700,700,,COMPLETED,2
+SK-0258,Peter Chirchir,087587104,M,Nakuru,RT07,Nakuru,Nairobi,kda 701x,shuttle,Peter Ochieng,4.6,25/07/2025,05:45,BUSINESS CLASS,5,700,"3,500",,completed,3
+SK-0259,Peter Kamau,,male,Mombasa,RT02,Nairobi,Mombasa,KDB 252Y,Shuttle,Grace Wanjiru,4.1,03-04-25,06:30,BUS,1,KSh2200,2200,M-Pesa,Completed,6
+SK-0260,Gideon Gitau,018702231,f,Thika,RT08,Nairobi,Nyeri,KDC 933Z,Bus,Simon Mutua,4.4,11-06-25,19:00,BUS,3,500,"KSh 1,500",,COMPLETED,4
+SK-0261,Brian Hassan,+254 763 645-559,male,Nairobi,RT03,Nairobi,Nakuru,kdd 414w,Matatu,JOSEPH KIMANI,5.0,11/08/2025,07:15,Economy,6,700,4200,Card,completed,3
+SK-0262,halima chebet,254740174894,FEMALE,Machakos,RT01,Nairobi,Thika,KDE 825V,BUS,Mary Achieng,3.3,25/06/2025,17:30,BUSINESS CLASS,2,350,700,,CANCELLED,2
+SK-0263,Mercy Achieng,094738110,F,Nyeri,RT01,Nairobi,Thika,kdf 636u,SHUTTLE,Mary Achieng,4.9,27/04/2025,19:30,Business,3,350,1050,CASH,completed,5
+SK-0264,Otieno Kiptoo,254741240916,M,Nairobi,RT01,Nairobi,Thika,KDA 701X,bus,Alice Nduta,4.8,2025-08-25,09:45,ECONOMY CLASS,4,350,1400,M-Pesa,completed,5
+SK-0265,Otieno Chebet,+254 735 904-170,male,Mombasa,RT04,Nairobi,Kisumu,kdb 252y,shuttle,  ALICE NDUTA ,4.9,08-08-25,18:30,Economy,3,1800,"KSh 5,400",Cash,Cancelled,5
+SK-0266,Kevin Mwangi,+254 733 945-106,male,Nairobi,RT08,Nairobi,Nyeri,KDC 933Z,MATATU,Mary Achieng,4.0,29-07-25,06:00,Economy,3,500,1500,M-PESA,completed,2
+SK-0267,Amina Odhiambo,254724446315,male,Machakos,RT01,Nairobi,Thika,KDD 414W,Bus,PETER OCHIENG,3.4,2025-05-21,11:15,Business,4,350,1400,CASH,COMPLETED,6
+SK-0268,Esther Chebet,075698600,MALE,Thika,RT08,Nairobi,Nyeri,kde 825v,Matatu,Paul Kiptoo,4.6,29-08-25,20:45,Economy,1,500,500,Card,COMPLETED,5
+SK-0269,gideon njeri,064486685,MALE,Eldoret,RT06,Thika,Nairobi,kdf 636u,Bus,Mary Achieng,4.1,2025-07-12,06:45,Business,2,350,700,Cash,COMPLETED,5
+SK-0270,cynthia chebet,020904383,MALE,Thika,RT02,Nairobi,Mombasa,KDA 701X,Matatu,Grace Wanjiru,4.4,07-07-25,14:30,Economy,4,"KSh 2,200",KSh8800,Card,completed,4
+SK-0271,Amina Kiptoo,039332840,f,Mombasa,RT08,Nairobi,Nyeri,kdb 252y,SHUTTLE,Esther Kagure,4.0,28/06/2025,15:15,BUS,1,KSh500,500,Cash,CANCELLED,7
+SK-0272,Lucy Chebet,254761881897,f,,RT07,Nakuru,Nairobi,kdc 933z,Matatu,JOSEPH KIMANI,5.0,03-05-25,17:45,Economy,1,KSh 700,700,mpesa,COMPLETED,1
+SK-0273,  FAITH KAMAU ,254733303171,F,Kisumu,RT01,Nairobi,Thika,KDD 414W,BUS,Mary Achieng,3.9,17/06/2025,10:30,BUS,3,350,"KSh 1,050",CASH,COMPLETED,1
+SK-0274,Rehema Wafula,097569382,MALE,Nairobi,RT03,Nairobi,Nakuru,KDE 825V,bus,Grace Wanjiru,4.8,05-23-2025,19:45,Business,1,700,700,Card,COMPLETED,2
+SK-0275,Faith Chirchir,254794287815,FEMALE,Thika,RT02,Nairobi,Mombasa,kdf 636u,Bus,Paul Kiptoo,4.3,10-07-25,07:15,BUS,4,2200,"KSh 8,800",M-PESA,Completed,2
+SK-0276,Brian Kiptoo,058451863,F,Mombasa,RT06,Thika,Nairobi,kda 701x,Shuttle,Mary Achieng,3.4,07-14-2025,20:45,ECO,3,350,1050,Card,COMPLETED,3
+SK-0277,Joy Otieno,254719787881,M,Kisumu,RT01,Nairobi,Thika,KDB 252Y,Bus,Grace Wanjiru,4.8,2025-05-14,19:00,BUSINESS CLASS,4,KSh350,1400,Card,Cancelled,5
+SK-0278,HALIMA CHEBET,+254 763 128-114,male,Mombasa,RT02,Nairobi,Mombasa,KDC 933Z,Bus,Paul Kiptoo,4.1,02-04-25,15:15,Business,2,2200,4400,Cash,Completed,4
+SK-0279,Gideon Kiptoo,057144168,MALE,Nyeri,RT01,Nairobi,Thika,kdd 414w,Matatu,Paul Kiptoo,3.4,04-04-25,17:15,ECONOMY CLASS,1,350,KSh350,M-PESA,completed,3
+SK-0280,Halima Barasa,025416342,f,Nyeri,RT03,Nairobi,Nakuru,KDE 825V,Matatu,Paul Kiptoo,3.7,2025-08-28,17:15,BUSINESS CLASS,2,700,KSh1400,Cash,completed,5
+SK-0281,Joy Mwangi,036652155,f,Mombasa,RT07,Nakuru,Nairobi,KDF 636U,BUS,Alice Nduta,4.3,11/04/2025,20:00,Economy,1,700,KSh 700,mpesa,Completed,4
+SK-0282,Peter Mutiso,+254 764 280-720,MALE,Kisumu,RT01,Nairobi,Thika,kda 701x,Bus,simon mutua,3.3,23-05-25,17:45,Economy,3,350,1050,CASH,completed,1
+SK-0283,cynthia mwangi,032363489,F,Kisumu,RT03,Nairobi,Nakuru,kdb 252y,BUS,Esther Kagure,3.4,02/08/2025,11:15,Economy,1,700,KSh700,Card,COMPLETED,4
+SK-0284,CYNTHIA ACHIENG,254782266298,,Nyeri,RT03,Nairobi,Nakuru,kdc 933z,BUS,Esther Kagure,3.9,05/07/2025,17:45,BUSINESS CLASS,5,700,3500,,COMPLETED,3
+SK-0285,Esther Mutiso,011219889,M,Nyeri,RT05,Nairobi,Eldoret,kdd 414w,Matatu,GRACE WANJIRU,4.7,08-05-25,14:45,Business,3,1600,4800,Card,Completed,7
+SK-0286,Mercy Hassan,018892813,F,,RT01,Nairobi,Thika,kde 825v,shuttle,Paul Kiptoo,3.5,2025-05-07,11:45,Economy,3,350,1050,CASH,Completed,6
+SK-0287,David Odhiambo,+254 720 486-227,male,Thika,RT01,Nairobi,Thika,kdf 636u,Bus,Esther Kagure,4.6,20/05/2025,06:30,ECO,1,350,KSh 350,M-Pesa,Completed,4
+SK-0288,Otieno Chebet,056781508,F,Nairobi,RT03,Nairobi,Nakuru,kda 701x,Matatu,esther kagure,4.5,2025-06-08,05:00,Business,1,700,700,,No Show,4
+SK-0289,Kevin Kamau,039721596,F,Thika,RT02,Nairobi,Mombasa,kdb 252y,Matatu,Peter Ochieng,3.6,2025-07-31,21:00,Economy,3,2200,6600,,completed,2
+SK-0290,Halima Njeri,023545832,M,Nakuru,RT08,Nairobi,Nyeri,kdc 933z,Bus,Simon Mutua,4.9,24/07/2025,09:45,ECO,6,500,KSh3000,,no show,4
+SK-0291,Otieno Mwangi,+254 747 189-214,M,Eldoret,RT01,Nairobi,Thika,KDD 414W,MATATU,Alice Nduta,3.8,07/07/2025,05:30,ECO,2,350,700,Cash,COMPLETED,7
+SK-0292,David Achieng,047957324,F,Machakos,RT02,Nairobi,Mombasa,KDE 825V,Bus,Joseph Kimani,3.8,03/05/2025,13:45,BUSINESS CLASS,2,"2,200",4400,Cash,Completed,5
+SK-0293,brian odhiambo,030122661,F,Eldoret,RT08,Nairobi,Nyeri,kdf 636u,Shuttle,Peter Ochieng,4.2,24-05-25,14:15,BUSINESS CLASS,2,500,1000,M-PESA,cancelled,2
+SK-0294,Peter Hassan,035852766,M,Eldoret,RT07,Nakuru,Nairobi,KDA 701X,shuttle,Peter Ochieng,3.5,17/06/2025,08:30,BUS,1,700,700,CASH,completed,2
+SK-0295,Rehema Mutiso,098914786,f,Thika,RT02,Nairobi,Mombasa,kdb 252y,Shuttle,Esther Kagure,3.4,13/07/2025,08:45,BUSINESS CLASS,2,2200,4400,M-Pesa,completed,1
+SK-0296,Otieno Mutiso,+254 718 830-982,,,RT04,Nairobi,Kisumu,KDC 933Z,Matatu,Peter Ochieng,4.2,04-25-2025,07:00,Economy,3,"KSh 1,800",5400,CASH,cancelled,2
+SK-0297,Faith Otieno,074405472,FEMALE,Nakuru,RT01,Nairobi,Thika,kdd 414w,Bus,Simon Mutua,4.9,02-05-25,19:15,Business,3,350,1050,M-PESA,completed,5
+SK-0298,Gideon Wafula,+254 755 384-231,f,Nyeri,RT03,Nairobi,Nakuru,KDE 825V,Shuttle,Peter Ochieng,3.5,12/04/2025,07:30,BUSINESS CLASS,1,700,700,CASH,Completed,2
+SK-0299,Samuel Chirchir,058126718,MALE,Thika,RT01,Nairobi,Thika,kdf 636u,Matatu,Peter Ochieng,4.4,20-05-25,15:30,Economy,4,KSh 350,1400,M-Pesa,COMPLETED,5
+SK-0300,Rehema Otieno,087201149,MALE,Eldoret,RT08,Nairobi,Nyeri,kda 701x,BUS,Peter Ochieng,3.4,02/05/2025,21:15,BUSINESS CLASS,1,500,500,Card,COMPLETED,3
+SK-0301,faith kiptoo,254745538633,f,Mombasa,RT01,Nairobi,Thika,kdb 252y,Shuttle,PETER OCHIENG,4.3,03/06/2025,12:00,Economy,4,350,1400,M-PESA,completed,4
+SK-0302,  SAMUEL GITAU ,034951863,M,Nyeri,RT08,Nairobi,Nyeri,kdc 933z,SHUTTLE,Joseph Kimani,4.9,2025-07-18,10:00,ECONOMY CLASS,-1,KSh500,500,M-Pesa,COMPLETED,2
+SK-0303,David Mutiso,+254 737 102-855,f,Nyeri,RT03,Nairobi,Nakuru,KDD 414W,SHUTTLE,  JOSEPH KIMANI ,4.7,26/06/2025,16:00,Business,1,700,700,M-Pesa,No Show,2
+SK-0304,samuel barasa,+254 772 107-259,,Kisumu,RT02,Nairobi,Mombasa,KDE 825V,Shuttle,Simon Mutua,4.8,03-04-25,08:45,BUSINESS CLASS,4,"KSh 2,200",8800,Card,COMPLETED,4
+SK-0305,Otieno Hassan,,f,Kisumu,RT01,Nairobi,Thika,KDF 636U,BUS,  ESTHER KAGURE ,3.4,04-29-2025,21:45,Economy,5,350,1750,M-Pesa,Completed,1
+SK-0306,Amina Achieng,+254 720 879-539,MALE,Nakuru,RT01,Nairobi,Thika,KDA 701X,Matatu,SIMON MUTUA,4.4,05-31-2025,11:45,BUSINESS CLASS,3,KSh 350,KSh1050,CASH,Completed,3
+SK-0307,ian njeri,,M,Nyeri,RT01,Nairobi,Thika,kdb 252y,Bus,Grace Wanjiru,4.1,09/05/2025,06:30,ECO,5,350,1750,M-PESA,completed,2
+SK-0308,REHEMA MUTISO,254742603472,male,Kisumu,RT02,Nairobi,Mombasa,KDC 933Z,Matatu,Paul Kiptoo,4.5,11-04-25,21:30,Economy,2,2200,4400,Cash,Completed,3
+SK-0309,Peter Otieno,254753408842,F,Mombasa,RT07,Nakuru,Nairobi,KDD 414W,Bus,Peter Ochieng,3.7,01-05-25,16:45,BUSINESS CLASS,1,700,700,Cash,completed,2
+SK-0310,BRIAN MWANGI,078991625,M,Nakuru,RT08,Nairobi,Nyeri,kde 825v,BUS,Peter Ochieng,3.7,2025-06-10,05:15,Business,3,500,1500,,completed,2
+SK-0311,Wanjiku Otieno,,f,Nakuru,RT03,Nairobi,Nakuru,kdf 636u,Matatu,GRACE WANJIRU,4.2,17/06/2025,16:30,ECONOMY CLASS,4,700,KSh2800,M-PESA,cancelled,3
+SK-0312,HALIMA HASSAN,+254 712 650-773,,Thika,RT01,Nairobi,Thika,kda 701x,BUS,GRACE WANJIRU,3.8,2025-04-15,17:15,BUS,5,350,"1,750",mpesa,COMPLETED,1
+SK-0313,Faith Gitau,+254 732 937-503,f,Mombasa,RT01,Nairobi,Thika,KDB 252Y,matatu,Grace Wanjiru,4.4,05-16-2025,08:15,BUSINESS CLASS,1,KSh 350,350,Cash,COMPLETED,7
+SK-0314,AMINA MWANGI,254753973824,M,Mombasa,RT01,Nairobi,Thika,KDC 933Z,bus,Paul Kiptoo,4.1,2025-04-12,06:30,BUSINESS CLASS,4,350,1400,M-Pesa,Completed,1
+SK-0315,Otieno Achieng,097832942,M,Machakos,RT03,Nairobi,Nakuru,KDD 414W,Matatu,Simon Mutua,4.3,16/07/2025,16:00,ECO,1,700,700,CASH,COMPLETED,2
+SK-0316,  DAVID MUTISO ,254743930828,,Thika,RT04,Nairobi,Kisumu,KDE 825V,Bus,Alice Nduta,4.0,06-17-2025,07:00,Business,3,1800,"KSh 5,400",M-Pesa,COMPLETED,3
+SK-0317,otieno chirchir,+254 793 351-492,F,,RT08,Nairobi,Nyeri,kdf 636u,shuttle,Grace Wanjiru,4.2,06-21-2025,21:15,BUSINESS CLASS,1,500,500,mpesa,Completed,4
+SK-0318,Esther Mutiso,036947329,M,Nakuru,RT02,Nairobi,Mombasa,KDA 701X,Bus,Peter Ochieng,4.5,04-29-2025,16:00,BUSINESS CLASS,2,2200,4400,Cash,completed,3
+SK-0319,otieno wafula,070521839,male,Machakos,RT07,Nakuru,Nairobi,KDB 252Y,Bus,JOSEPH KIMANI,4.3,2025-04-21,21:15,ECO,1,700,700,Cash,completed,1
+SK-0320,Ian Otieno,061733157,MALE,Nyeri,RT06,Thika,Nairobi,KDC 933Z,SHUTTLE,mary achieng,4.1,06-18-2025,17:15,ECO,2,KSh350,700,M-PESA,Completed,6
+SK-0321,David Otieno,,MALE,Nairobi,RT01,Nairobi,Thika,KDD 414W,MATATU,Joseph Kimani,4.6,25/06/2025,06:30,ECO,2,KSh 350,700,Cash,completed,3
+SK-0322,Samuel Otieno,058588700,,Nairobi,RT01,Nairobi,Thika,kde 825v,matatu,MARY ACHIENG,4.9,2025-05-04,11:15,BUSINESS CLASS,4,350,KSh1400,Card,completed,1
+SK-0323,  OTIENO KAMAU ,254736725721,M,Nakuru,RT05,Nairobi,Eldoret,kdf 636u,Bus,Simon Mutua,4.9,04/05/2025,20:00,BUS,5,1600,"KSh 8,000",M-Pesa,COMPLETED,3
+SK-0324,PETER GITAU,046510518,,Nakuru,RT04,Nairobi,Kisumu,kda 701x,SHUTTLE,Alice Nduta,4.4,07-27-2025,13:00,Business,2,"KSh 1,800","KSh 3,600",Card,completed,7
+SK-0325,Peter Gitau,254792647937,F,Thika,RT01,Nairobi,Thika,KDB 252Y,Matatu,PETER OCHIENG,3.9,11/05/2025,15:30,Business,5,350,"1,750",M-Pesa,COMPLETED,1
+SK-0326,mercy kamau,037988123,,Nyeri,RT03,Nairobi,Nakuru,kdc 933z,Bus,Mary Achieng,3.7,08/05/2025,14:45,BUS,3,700,2100,M-PESA,Completed,3
+SK-0327,Lucy Achieng,254730813547,male,Nyeri,RT07,Nakuru,Nairobi,KDD 414W,Bus,Mary Achieng,4.2,2025-06-27,15:30,ECO,1,700,700,mpesa,NO SHOW,3
+SK-0328,Esther Gitau,034530813,FEMALE,Nakuru,RT07,Nakuru,Nairobi,kde 825v,Bus,  GRACE WANJIRU ,4.9,14-07-25,16:00,ECONOMY CLASS,1,KSh700,KSh 700,Card,COMPLETED,
+SK-0329,kevin otieno,254732666709,MALE,,RT05,Nairobi,Eldoret,kdf 636u,bus,Simon Mutua,4.9,30/06/2025,07:00,ECO,2,1600,3200,Cash,Cancelled,4
+SK-0330,Brian Gitau,254738895565,FEMALE,Nyeri,RT03,Nairobi,Nakuru,KDA 701X,Matatu,alice nduta,3.9,04-26-2025,05:30,Economy,4,700,2800,Card,COMPLETED,5
+SK-0159,Gideon Chebet,099910132,male,Thika,RT01,Nairobi,Thika,KDD 414W,matatu,Mary Achieng,3.5,03-04-25,17:00,ECO,1,KSh350,350,,COMPLETED,2
+SK-0214,CYNTHIA CHIRCHIR,,MALE,,RT01,Nairobi,Thika,kde 825v,Bus,Grace Wanjiru,3.9,05-24-2025,06:30,Business,3,350,1050,Cash,Completed,
+SK-0125,  PETER MUTISO ,031215235,f,Nairobi,RT01,Nairobi,Thika,KDF 636U,BUS,  ESTHER KAGURE ,4.0,06-27-2025,16:00,BUSINESS CLASS,4,KSh350,"KSh 1,400",Cash,COMPLETED,4
+SK-0004,Halima Wafula,+254 716 981-212,MALE,Nakuru,RT01,Nairobi,Thika,kde 825v,shuttle,Peter Ochieng,4.0,28-08-25,05:00,BUSINESS CLASS,3,350,"1,050",M-Pesa,COMPLETED,5
+SK-0018,Halima Kiptoo,254713498444,f,Nyeri,RT06,Thika,Nairobi,KDA 701X,MATATU,  JOSEPH KIMANI ,4.2,17/07/2025,07:45,Economy,5,KSh 350,1750,Cash,COMPLETED,5
+SK-0009,SAMUEL OTIENO,061222683,MALE,Nairobi,RT01,Nairobi,Thika,KDD 414W,SHUTTLE,ALICE NDUTA,4.4,01-08-25,12:30,BUS,2,350,700,Cash,COMPLETED,5
+SK-0015,Joy Barasa,040788417,MALE,Mombasa,RT03,Nairobi,Nakuru,KDD 414W,Bus,Esther Kagure,4.6,07-31-2025,18:15,BUSINESS CLASS,2,700,1400,mpesa,Cancelled,2
+SK-0080,ian mwangi,+254 780 484-542,MALE,Nyeri,RT03,Nairobi,Nakuru,KDC 933Z,Bus,Mary Achieng,3.5,2025-07-11,17:30,ECONOMY CLASS,4,700,2800,M-PESA,NO SHOW,3
+SK-0193,  BRIAN GITAU ,026617178,,Kisumu,RT08,Nairobi,Nyeri,kdb 252y,Shuttle,SIMON MUTUA,4.5,2025-08-23,09:45,ECONOMY CLASS,4,500,"KSh 2,000",Cash,Completed,4
+SK-0267,Amina Odhiambo,254724446315,male,Machakos,RT01,Nairobi,Thika,KDD 414W,Bus,PETER OCHIENG,3.4,2025-05-21,11:15,Business,4,350,1400,CASH,COMPLETED,6
+SK-0309,Peter Otieno,254753408842,F,Mombasa,RT07,Nakuru,Nairobi,KDD 414W,Bus,Peter Ochieng,3.7,01-05-25,16:45,BUSINESS CLASS,1,700,700,Cash,completed,2
+SK-0164,Otieno Odhiambo,015851172,,Kisumu,RT08,Nairobi,Nyeri,KDC 933Z,Matatu,Mary Achieng,4.2,2025-04-21,11:15,Business,1,500,500,Card,completed,1
